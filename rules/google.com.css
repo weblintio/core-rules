@@ -1,3 +1,4 @@
+/* root: https://www.google.com/ */
 .jsb
 {
     display: none !important;
@@ -19,6 +20,12 @@ div#footcnt
 }
 
 div#prm-pt
+{
+    display: none !important;
+}
+
+/* maps: https://www.google.com/maps/ */
+.scene-footer-container.noprint
 {
     display: none !important;
 }
