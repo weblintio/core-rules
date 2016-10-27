@@ -1,3 +1,16 @@
-.l-fluid-fixed .l-sidebar-right {
-  display: none !important;
+.l-fluid-fixed .l-sidebar-right
+{
+    display: none !important;
+}
+
+.sc-border-light-right.l-main
+{
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    border-right: 0 !important;
+}
+
+.stream__header.g-flex-row-centered-spread
+{
+    display: none !important;
 }
