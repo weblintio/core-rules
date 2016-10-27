@@ -1,0 +1,14 @@
+div#leftCol
+{
+    display: none !important;
+}
+
+div#rightCol
+{
+    display: none !important;
+}
+
+html ._2xk0._5vb_.hasLeftCol #contentCol
+{
+    margin-left: 20px;
+}
