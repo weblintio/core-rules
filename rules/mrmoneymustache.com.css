@@ -1,0 +1,54 @@
+.upper_header.clearfix
+{
+    display: none !important;
+}
+
+div#site_title
+{
+    display: none !important;
+}
+
+.main_menu
+{
+    display: none !important;
+}
+
+header.row
+{
+    height: 50px !important;
+}
+
+.large-8.small-8.columns
+{
+    width: 100% !important;
+}
+
+.related-posts.bg3
+{
+    display: none !important;
+}
+
+.post_footer.bg3
+{
+    display: none !important;
+}
+
+div#widget_sp_image-3
+{
+    display: none !important;
+}
+
+.footer_utility
+{
+    display: none !important;
+}
+
+.copyright
+{
+    display: none !important;
+}
+
+.large-4.small-4.columns
+{
+    display: none !important;
+}
