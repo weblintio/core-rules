@@ -1,19 +1,27 @@
-.give-feedback
-{
+.give-feedback {
     display: none !important;
 }
 
-.social-media
-{
+.social-media {
     display: none !important;
 }
 
-div#right
-{
+div#right {
     display: none !important;
 }
 
-#content .wrapper
-{
-    margin-right: 0;
+#content .wrapper {
+    margin-right: 0px !important;
+}
+
+div#fContainer {
+    display: none !important;
+}
+
+.social {
+    display: none !important;
+}
+
+.linkback {
+    display: none !important;
 }
