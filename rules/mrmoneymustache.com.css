@@ -18,6 +18,11 @@ header.row
     height: 50px !important;
 }
 
+.lower_header.clearfix
+{
+    top: 0 !important;
+}
+
 .large-8.small-8.columns
 {
     width: 100% !important;
