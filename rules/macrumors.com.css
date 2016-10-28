@@ -1,0 +1,19 @@
+.give-feedback
+{
+    display: none !important;
+}
+
+.social-media
+{
+    display: none !important;
+}
+
+div#right
+{
+    display: none !important;
+}
+
+#content .wrapper
+{
+    margin-right: 0;
+}
