@@ -23,6 +23,21 @@
     display: none !important;
 }
 
+.social-share
+{
+    display: none !important;
+}
+
+a.next-link
+{
+    display: none !important;
+}
+
+.l-sidebar-2
+{
+    display: none !important;
+}
+
 .l-main
 {
     margin-left: 0 !important;
