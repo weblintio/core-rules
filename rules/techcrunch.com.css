@@ -1,0 +1,45 @@
+.header-tip
+{
+    display: none !important;
+}
+
+.header-social
+{
+    display: none !important;
+}
+
+.nav-fb-messenger
+{
+    display: none !important;
+}
+
+.announcement
+{
+    display: none !important;
+}
+
+.l-sidebar
+{
+    display: none !important;
+}
+
+.l-main
+{
+    margin-left: 0 !important;
+}
+
+
+div#social-after-wrapper
+{
+    display: none !important;
+}
+
+figure.op-tracker
+{
+    display: none !important;
+}
+
+.footer-follow.g.g-3up
+{
+    display: none !important;
+}
