@@ -1,4 +1,21 @@
 m-ad m-ad__zone-1a m-ad__leaderboard {
-  disply: none !important;
+	display: none !important;
  }
-  
+ m-entry-slot -ad {
+	display: none !important;
+}
+m-ad m-ad__zone-3 {
+	display: none !important;
+}
+m-entry-slot emc-content-promo {
+	display: none !important;
+}
+m-ad m-ad__zone-5 {
+	display: none !important;
+}
+m-footer {
+	display: none !important;
+}
+m-header__social {
+	display: none !important;
+}
